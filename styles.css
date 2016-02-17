@@ -1,4 +1,15 @@
 .mdl-layout__content {
-	width: 80%;
-	margin: 0 10%;
+    width: 80%;
+    margin: 0 10%;
+}
+
+.mdl-card {
+    display: block;
+    /* TODO: Remove absolute value. */
+    height: 200px;
+}
+
+.mdl-card a {
+    display: block;
+    height: 100%;
 }
