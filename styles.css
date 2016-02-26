@@ -5,8 +5,8 @@
 
 .mdl-card {
     display: block;
-    /* TODO: Remove absolute value. */
-    height: 200px;
+    height: 6em;
+    min-height: 2em;
 }
 
 .mdl-card a {
